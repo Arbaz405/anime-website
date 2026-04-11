@@ -3,10 +3,9 @@ const gamesData = [
     { name: "GTA 6", url: "GTA6-blog.html" },
     { name: "Resident Evil 9", url: "Resident.html" },
     { name: "Indiana Jones", url: "Indiana.html" },
-    { name: "Free Fire Tips", url: "free-fire.html" }, // Agar page nahi hai toh # rehne dena
-    { name: "Asphalt 9", url: "#" },
-    { name: "Marvel's Wolverine", url: "marvel.html" },
-    { name: "StarRupture", url: "star.html"}
+    { name: "Marvel's Wolverine", url: "marvel.html" },  // Agar page nahi hai toh # rehne dena
+    { name: "StarRupture", url: "star.html"},
+    { name: "007 First Light", url: "007.html"}
 ];
 
 const searchInput = document.getElementById('searchInput');
